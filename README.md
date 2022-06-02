@@ -30,8 +30,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Hint Tailwind
 
-Install the official tailwind intellisense add-on and inside class='' press ctr + space or add this to the 'config.json' file:
+Install the Official Tailwind Intellisense add-on and inside class="" press ctr + space
 
+Or add this to the 'config.json' file:
+
+```
 "tailwindCSS.includeLanguages": {
 "html": "html",
 "javascript": "javascript",
@@ -40,3 +43,4 @@ Install the official tailwind intellisense add-on and inside class='' press ctr 
 "editor.quickSuggestions": {
 "strings": true
 }
+```

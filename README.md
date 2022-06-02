@@ -1,5 +1,7 @@
 # vuecli-tailwind
 
+BoilerPlate for a Vue 2.x project with Tailwind Css support built in compiled with @Vue/cli
+
 ## Project setup
 
 ```

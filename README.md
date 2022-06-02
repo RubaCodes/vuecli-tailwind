@@ -30,7 +30,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Hint Tailwind
 
-Install the Official Tailwind Intellisense add-on and inside class="" press ctr + space
+Install [the Official Tailwind Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) "" add-on and inside class="" press ctr + space
 
 Or add this to the 'config.json' file:
 
